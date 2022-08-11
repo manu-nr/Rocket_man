@@ -1,0 +1,213 @@
+*{
+    margin: 0%;
+    text-align: left;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;;
+
+
+   
+}
+.nav1{
+    border: 1px solid rgba(220, 218, 218, 0.932);
+    width: 100%;
+}
+
+.list11{
+    list-style: none;
+    display: flex;
+    gap: 80px;
+    /* height: 30px; */
+    
+    font-size: 20px;
+    /* padding: 0%; */
+    font-weight: 370;
+    /* padding-right:180px ; */
+    /* letter-spacing: 3px; */
+}
+.nav1{
+    margin: 0%;
+    display: flex;
+    gap: 305px;
+    height: 140px;
+    letter-spacing: 3px;
+    /* border: 1px solid blue; */
+    align-items: center;
+    padding-left: 50px;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;;
+
+    cursor: pointer;
+}
+.nav1 img{
+    /* width: 100%; */
+    height: 64px;
+    padding-left:  115px; ;
+}       
+a{
+    text-decoration: none;
+    color: black;
+
+}
+.txt h1{
+    font-size: 50px;
+    font-weight: 900;
+    color: #212b36;
+}
+.txt p{
+    font-size: 25px;
+    margin-top: 25px;
+    font-weight:lighter;
+}
+.txt{
+    /* border: 1px solid ; */
+    padding-left: 10%;
+    margin-top:70px;
+}
+.img{
+    margin-top: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-evenly; */
+    /* border: 1px solid; */
+    margin-bottom: 150px;
+    gap: 40px;
+    margin-left:10% ;
+}
+.first{
+    border: 1px solid gray;
+    margin-bottom: 10px;
+   
+}
+.first h3{
+    text-align: center;
+    margin: 30px 0px 10px 0px;
+    font-size: 20px;
+    color: #212b36;
+}
+
+.p1{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.p2{
+    text-align: center;
+    color: rgba(128, 0, 128, 0.738);
+    margin :20px 0px 40px 0px;
+    font-weight: 500;
+}
+
+.last{
+    margin-right:770px;
+    margin-top: 30px;
+}
+.purple{
+    width: 100%;
+    height: 400px;
+    background-color: rgba(137, 43, 226, 0.821);
+    color:white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.purple-txt h1{
+    margin-top: 50px;
+    font-size: 40px;
+}
+.purple-txt p{
+    margin-top: 20px;
+    font-size: 25px;
+}
+.purple button{
+    height: 50px;
+    width: 170px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+.footer{
+    position: relative;
+    width:100%;
+    height: 300px;
+    box-sizing: border-box;
+    background-color: black;
+    display: flex;
+    justify-content: center;    
+}
+.box{
+    position: relative;
+    /* border: 1px solid blue; */
+    width: 90%;
+    height: 200px;
+    display: flex;
+    padding-top: 80px;
+    justify-content: space-evenly;
+    align-items: top;
+    /* gap:20px; */
+    /* padding-left:10%; */
+    /* padding-right:10%;  */
+}
+
+.list1{
+   width: 250px;
+   /* border: 1px solid red; */
+    letter-spacing: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+.lst2{
+    list-style: none; letter-spacing: none;
+    color:white
+}
+.lst2 a{
+    color: white; letter-spacing: none;
+}
+.lst3{
+    margin-top:10px;
+}
+.ul2{
+    line-height: 40px;
+}
+
+.list2{
+    width: 350px;
+   /* border: 1px solid red; */
+    color: white;
+}
+.list3{
+    width: 250px;
+   /* border: 1px solid red;    */
+}
+.lst3{
+    
+    list-style:none;
+    color: white;
+}
+.l1{
+    color: gray;
+    font-size: 12px;
+    font-weight: 500;
+  
+}
+.symbols{
+    width: 250px;
+   /* border: 1px solid red; */
+}
+
+.symbols svg{
+    color: white;
+    /* padding-left: 10px; */
+    /* height: 35px; */
+}
+.sym{
+    width: 100px;
+    display: flex;
+    /* justify-content: space-around; */
+    gap:20px
+}
+.symbols p{
+    color: grey;
+}
+.lst3{
+    line-height: 25px;
+}
