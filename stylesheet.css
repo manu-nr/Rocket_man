@@ -504,6 +504,7 @@ a{
     position: relative;
     right: 40px;
     padding-top: 10px;
+    font-size: 15px ;
 }
 @media (max-width:600px){
   .nav1{
@@ -784,12 +785,21 @@ a{
         align-items: center;
         justify-content: center;
     }
+    .text{
+        margin-left: 0%;
+        padding: 0%;
+    }
     .text h1{
-        font-size: 40px;
+        font-size: 30px;
         text-align: center;
         width: 340px;
-        margin-left: 20px;
+        /* right:50%; */
+        /* padding: 0%; */
+        /* margin: 0%; */
+        margin-left:280px ;
+        /* margin-left: 20px; */
         letter-spacing: normal;
+        
         /* border: 1px solid gold ; */
     }
     .text p{
@@ -798,14 +808,16 @@ a{
         letter-spacing: normal;
         text-align: center;
         font-size: 24px;
+        margin-left:260px ;
         font-weight: 300;
         font-family: proxima-nova,sans-serif;
-        /* margin-left: 20px; */
+        margin-top: 90px;
     }
     .lastbutton{
         /* align-self: center; */
-        /* margin-left: 20%; */
+        margin-top: 20%;
         margin-bottom: 40%;
+        margin-left: 10px;
         display: flex;
         height: 200px;
         width: 100%;
@@ -827,7 +839,7 @@ a{
 
     }
     .footer{
-        height: 70vh;
+        height: 75vh;
         /* border: 1px soid blue; */
         padding: 0%;
         
